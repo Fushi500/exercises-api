@@ -1,0 +1,16 @@
+{
+  "category": "olympic weightlifting",
+  "equipment": [
+    "barbell"
+  ],
+  "instructions": [],
+  "name": "Push Press",
+  "primary_muscles": [
+    "shoulders"
+  ],
+  "secondary_muscles": [
+    "quads",
+    "triceps"
+  ],
+  "slug": "push-press"
+}

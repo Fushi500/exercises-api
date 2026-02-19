@@ -1,0 +1,85 @@
+{
+  "count": 16,
+  "equipment": [
+    {
+      "name": "none",
+      "slug": "none",
+      "exercise_count": 185
+    },
+    {
+      "name": "ez curl bar",
+      "slug": "ez-curl-bar",
+      "exercise_count": 9
+    },
+    {
+      "name": "barbell",
+      "slug": "barbell",
+      "exercise_count": 169
+    },
+    {
+      "name": "dumbbell",
+      "slug": "dumbbell",
+      "exercise_count": 125
+    },
+    {
+      "name": "gym mat",
+      "slug": "gym-mat",
+      "exercise_count": 0
+    },
+    {
+      "name": "exercise ball",
+      "slug": "exercise-ball",
+      "exercise_count": 12
+    },
+    {
+      "name": "medicine ball",
+      "slug": "medicine-ball",
+      "exercise_count": 17
+    },
+    {
+      "name": "pull-up bar",
+      "slug": "pull-up-bar",
+      "exercise_count": 0
+    },
+    {
+      "name": "bench",
+      "slug": "bench",
+      "exercise_count": 16
+    },
+    {
+      "name": "incline bench",
+      "slug": "incline-bench",
+      "exercise_count": 0
+    },
+    {
+      "name": "kettlebell",
+      "slug": "kettlebell",
+      "exercise_count": 53
+    },
+    {
+      "name": "machine",
+      "slug": "machine",
+      "exercise_count": 67
+    },
+    {
+      "name": "cable",
+      "slug": "cable",
+      "exercise_count": 81
+    },
+    {
+      "name": "bands",
+      "slug": "bands",
+      "exercise_count": 20
+    },
+    {
+      "name": "foam roll",
+      "slug": "foam-roll",
+      "exercise_count": 11
+    },
+    {
+      "name": "other",
+      "slug": "other",
+      "exercise_count": 121
+    }
+  ]
+}

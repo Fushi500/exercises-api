@@ -1,0 +1,45 @@
+{
+  "count": 8,
+  "categories": [
+    {
+      "name": "strength",
+      "slug": "strength",
+      "exercise_count": 617
+    },
+    {
+      "name": "stretching",
+      "slug": "stretching",
+      "exercise_count": 123
+    },
+    {
+      "name": "plyometrics",
+      "slug": "plyometrics",
+      "exercise_count": 61
+    },
+    {
+      "name": "strongman",
+      "slug": "strongman",
+      "exercise_count": 21
+    },
+    {
+      "name": "cardio",
+      "slug": "cardio",
+      "exercise_count": 14
+    },
+    {
+      "name": "olympic weightlifting",
+      "slug": "olympic-weightlifting",
+      "exercise_count": 35
+    },
+    {
+      "name": "crossfit",
+      "slug": "crossfit",
+      "exercise_count": 0
+    },
+    {
+      "name": "calisthenics",
+      "slug": "calisthenics",
+      "exercise_count": 1
+    }
+  ]
+}

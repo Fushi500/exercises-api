@@ -1,0 +1,15 @@
+{
+  "category": "stretching",
+  "equipment": [
+    "none"
+  ],
+  "instructions": [
+    "Reach your left arm across your body and hold it straight."
+  ],
+  "name": "Shoulder Stretch",
+  "primary_muscles": [
+    "shoulders"
+  ],
+  "secondary_muscles": [],
+  "slug": "shoulder-stretch"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Exercises API",
+  "description": "Read-only static API for fitness exercises. Served via GitHub Pages.",
+  "version": "1.0.0",
+  "total_exercises": 872,
+  "endpoints": {
+    "all_exercises": "api/exercises.json",
+    "categories_list": "api/categories.json",
+    "muscles_list": "api/muscles.json",
+    "equipment_list": "api/equipment.json",
+    "by_category": "api/categories/{category}.json",
+    "by_muscle": "api/muscles/{muscle}.json",
+    "by_equipment": "api/equipment/{equipment}.json",
+    "single_exercise": "api/exercises/{slug}.json"
+  },
+  "note": "Replace {placeholders} with slugified values (lowercase, spaces->hyphens). See categories.json / muscles.json / equipment.json for slug lists."
+}

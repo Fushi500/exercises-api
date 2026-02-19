@@ -1,0 +1,17 @@
+{
+  "category": "stretching",
+  "equipment": [
+    "none"
+  ],
+  "instructions": [
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+  ],
+  "name": "Shoulder Raise",
+  "primary_muscles": [
+    "shoulders"
+  ],
+  "secondary_muscles": [
+    "lats"
+  ],
+  "slug": "shoulder-raise"
+}

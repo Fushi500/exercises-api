@@ -1,0 +1,18 @@
+{
+  "category": "strength",
+  "equipment": [
+    "kettlebell"
+  ],
+  "instructions": [],
+  "name": "One-Arm Kettlebell Swings",
+  "primary_muscles": [
+    "hamstrings"
+  ],
+  "secondary_muscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "slug": "one-arm-kettlebell-swings"
+}

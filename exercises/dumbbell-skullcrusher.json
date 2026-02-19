@@ -1,0 +1,37 @@
+{
+  "aliases": [
+    "Dumbbell French Press"
+  ],
+  "category": "strength",
+  "description": "Skullcrusher performed with dumbbells",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "instructions": [
+    "Hold the dumbbells and lay down on a flat bench in such a way that around 1/4 of your head is over the edge.",
+    "Stretch your arms with the weights and bend them so that the dumbbells are lowered (make sure they don't touch each other).",
+    "Just before they touch your forehead, push them up."
+  ],
+  "license": {
+    "full_name": "Creative Commons Attribution Share Alike 3",
+    "short_name": "CC-BY-SA 3",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+  },
+  "license_author": "wger.de",
+  "name": "Dumbbell Skullcrusher",
+  "primary_muscles": [
+    "triceps"
+  ],
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "tips": [
+    "Pay attention to your elbows and arms: only the triceps are doing the work, the rest of the arms should not move"
+  ],
+  "variation_on": [
+    "skullcrusher"
+  ],
+  "video": "https://www.youtube.com/watch?v=ir5PsbniVSc",
+  "slug": "dumbbell-skullcrusher"
+}

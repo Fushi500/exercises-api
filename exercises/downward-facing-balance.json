@@ -1,0 +1,19 @@
+{
+  "category": "strength",
+  "equipment": [
+    "exercise ball"
+  ],
+  "instructions": [
+    "Lie facedown on top of an exercise ball.",
+    "While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees."
+  ],
+  "name": "Downward Facing Balance",
+  "primary_muscles": [
+    "glutes"
+  ],
+  "secondary_muscles": [
+    "abs",
+    "hamstrings"
+  ],
+  "slug": "downward-facing-balance"
+}

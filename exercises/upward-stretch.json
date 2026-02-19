@@ -1,0 +1,19 @@
+{
+  "category": "stretching",
+  "equipment": [
+    "none"
+  ],
+  "instructions": [
+    "Extend both hands straight above your head, palms touching.",
+    "Slowly push your hands up and back, keeping your back straight."
+  ],
+  "name": "Upward Stretch",
+  "primary_muscles": [
+    "shoulders"
+  ],
+  "secondary_muscles": [
+    "chest",
+    "lats"
+  ],
+  "slug": "upward-stretch"
+}

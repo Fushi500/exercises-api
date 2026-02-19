@@ -1,0 +1,100 @@
+{
+  "count": 19,
+  "muscles": [
+    {
+      "name": "abductors",
+      "slug": "abductors",
+      "primary_exercise_count": 8
+    },
+    {
+      "name": "abs",
+      "slug": "abs",
+      "primary_exercise_count": 93
+    },
+    {
+      "name": "adductors",
+      "slug": "adductors",
+      "primary_exercise_count": 13
+    },
+    {
+      "name": "biceps",
+      "slug": "biceps",
+      "primary_exercise_count": 53
+    },
+    {
+      "name": "brachialis",
+      "slug": "brachialis",
+      "primary_exercise_count": 8
+    },
+    {
+      "name": "calves",
+      "slug": "calves",
+      "primary_exercise_count": 28
+    },
+    {
+      "name": "chest",
+      "slug": "chest",
+      "primary_exercise_count": 85
+    },
+    {
+      "name": "forearms",
+      "slug": "forearms",
+      "primary_exercise_count": 25
+    },
+    {
+      "name": "glutes",
+      "slug": "glutes",
+      "primary_exercise_count": 22
+    },
+    {
+      "name": "hamstrings",
+      "slug": "hamstrings",
+      "primary_exercise_count": 79
+    },
+    {
+      "name": "lats",
+      "slug": "lats",
+      "primary_exercise_count": 38
+    },
+    {
+      "name": "lower back",
+      "slug": "lower-back",
+      "primary_exercise_count": 27
+    },
+    {
+      "name": "middle back",
+      "slug": "middle-back",
+      "primary_exercise_count": 34
+    },
+    {
+      "name": "neck",
+      "slug": "neck",
+      "primary_exercise_count": 8
+    },
+    {
+      "name": "quads",
+      "slug": "quads",
+      "primary_exercise_count": 148
+    },
+    {
+      "name": "shoulders",
+      "slug": "shoulders",
+      "primary_exercise_count": 127
+    },
+    {
+      "name": "soleus",
+      "slug": "soleus",
+      "primary_exercise_count": 0
+    },
+    {
+      "name": "traps",
+      "slug": "traps",
+      "primary_exercise_count": 15
+    },
+    {
+      "name": "triceps",
+      "slug": "triceps",
+      "primary_exercise_count": 70
+    }
+  ]
+}

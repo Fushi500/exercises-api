@@ -1,0 +1,20 @@
+{
+  "category": "stretching",
+  "description": "Groin Split Leg Stretch",
+  "equipment": [
+    "none"
+  ],
+  "instructions": [
+    "Lie on your back with your feet raised towards the ceiling.",
+    "Have your partner hold your feet or ankles. Abduct your legs as far as you can. This will be your starting position.",
+    "Attempt to squeeze your legs together for 10 or more seconds, while your partner prevents you from doing so.",
+    "Now, relax the muscles in your legs as your partner pushes your feet apart, stretching as far as is comfortable for you. Be sure to let your partner know when the stretch is adequate to prevent overstretching or injury."
+  ],
+  "name": "Adductor/Groin",
+  "primary_muscles": [
+    "adductors"
+  ],
+  "secondary_muscles": [],
+  "video": "https://www.youtube.com/watch?v=ScGo0VV85qA",
+  "slug": "adductor-groin"
+}

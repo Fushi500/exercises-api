@@ -1,0 +1,19 @@
+{
+  "category": "cardio",
+  "equipment": [
+    "other"
+  ],
+  "instructions": [
+    "To begin, seat yourself on the bike and adjust the seat to your height."
+  ],
+  "name": "Bicycling",
+  "primary_muscles": [
+    "quads"
+  ],
+  "secondary_muscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "slug": "bicycling"
+}

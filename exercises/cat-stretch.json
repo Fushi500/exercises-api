@@ -1,0 +1,20 @@
+{
+  "category": "stretching",
+  "equipment": [
+    "none"
+  ],
+  "instructions": [
+    "Position yourself on the floor on your hands and knees.",
+    "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
+    "Hold for 15 seconds."
+  ],
+  "name": "Cat Stretch",
+  "primary_muscles": [
+    "lower back"
+  ],
+  "secondary_muscles": [
+    "middle back",
+    "traps"
+  ],
+  "slug": "cat-stretch"
+}

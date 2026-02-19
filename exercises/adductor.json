@@ -1,0 +1,19 @@
+{
+  "category": "stretching",
+  "description": "One leg adductor foam roll",
+  "equipment": [
+    "foam roll"
+  ],
+  "instructions": [
+    "Lie face down with one leg on a foam roll.",
+    "Rotate the leg so that the foam roll contacts against your inner thigh. Shift as much weight onto the foam roll as can be tolerated.",
+    "While trying to relax the muscles if the inner thigh, roll over the foam between your hip and knee, holding points of tension for 10-30 seconds. Repeat with the other leg."
+  ],
+  "name": "Adductor",
+  "primary_muscles": [
+    "adductors"
+  ],
+  "secondary_muscles": [],
+  "video": "https://www.youtube.com/watch?v=h1xQabdHdes",
+  "slug": "adductor"
+}

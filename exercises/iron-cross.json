@@ -1,0 +1,20 @@
+{
+  "category": "strength",
+  "equipment": [
+    "dumbbell"
+  ],
+  "instructions": [],
+  "name": "Iron Cross",
+  "primary_muscles": [
+    "shoulders"
+  ],
+  "secondary_muscles": [
+    "chest",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quads",
+    "traps"
+  ],
+  "slug": "iron-cross"
+}

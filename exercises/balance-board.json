@@ -1,0 +1,20 @@
+{
+  "category": "strength",
+  "equipment": [
+    "other"
+  ],
+  "instructions": [
+    "Place a balance board in front of you.",
+    "Stand up on it and try to balance yourself.",
+    "Hold the balance for as long as desired."
+  ],
+  "name": "Balance Board",
+  "primary_muscles": [
+    "calves"
+  ],
+  "secondary_muscles": [
+    "hamstrings",
+    "quads"
+  ],
+  "slug": "balance-board"
+}

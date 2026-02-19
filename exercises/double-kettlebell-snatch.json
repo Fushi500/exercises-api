@@ -1,0 +1,21 @@
+{
+  "category": "strength",
+  "equipment": [
+    "kettlebell"
+  ],
+  "instructions": [
+    "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
+    "Swing the kettlebells between your legs forcefully and reverse the direction.",
+    "Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion."
+  ],
+  "name": "Double Kettlebell Snatch",
+  "primary_muscles": [
+    "shoulders"
+  ],
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "quads"
+  ],
+  "slug": "double-kettlebell-snatch"
+}

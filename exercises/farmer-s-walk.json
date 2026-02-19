@@ -1,0 +1,24 @@
+{
+  "category": "strongman",
+  "equipment": [
+    "other"
+  ],
+  "instructions": [
+    "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",
+    "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
+    "Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
+  ],
+  "name": "Farmer's Walk",
+  "primary_muscles": [
+    "forearms"
+  ],
+  "secondary_muscles": [
+    "abs",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quads",
+    "traps"
+  ],
+  "slug": "farmer-s-walk"
+}
