@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "total_exercises": 872,
   "endpoints": {
-    "all_exercises": "api/exercises.json",
-    "categories_list": "api/categories.json",
-    "muscles_list": "api/muscles.json",
-    "equipment_list": "api/equipment.json",
-    "by_category": "api/categories/{category}.json",
-    "by_muscle": "api/muscles/{muscle}.json",
-    "by_equipment": "api/equipment/{equipment}.json",
-    "single_exercise": "api/exercises/{slug}.json"
+    "all_exercises": "exercises.json",
+    "categories_list": "categories.json",
+    "muscles_list": "muscles.json",
+    "equipment_list": "equipment.json",
+    "by_category": "categories/{category}.json",
+    "by_muscle": "muscles/{muscle}.json",
+    "by_equipment": "equipment/{equipment}.json",
+    "single_exercise": "exercises/{slug}.json"
   },
   "note": "Replace {placeholders} with slugified values (lowercase, spaces->hyphens). See categories.json / muscles.json / equipment.json for slug lists."
 }
