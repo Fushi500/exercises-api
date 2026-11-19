@@ -1,26 +1,26 @@
 # Exercises API
 
-Read-only static REST API served via GitHub Pages. 872 exercises.
+Read-only static JSON API served by GitHub Pages. 872 exercises, with images.
 
 ## Base URL
 
 ```
-https://<your-username>.github.io/<your-repo>/api
+https://fushi500.github.io/exercises-api
 ```
 
 ## Endpoints
 
 | URL | Description |
 |-----|-------------|
-| `api/index.json` | API overview & endpoint map |
-| `api/exercises.json` | All 872 exercises |
-| `api/categories.json` | All categories with slugs & counts |
-| `api/muscles.json` | All muscles with slugs & counts |
-| `api/equipment.json` | All equipment types with slugs & counts |
-| `api/categories/{slug}.json` | Exercises filtered by category |
-| `api/muscles/{slug}.json` | Exercises filtered by primary muscle |
-| `api/equipment/{slug}.json` | Exercises filtered by equipment |
-| `api/exercises/{slug}.json` | Single exercise by slug |
+| `index.json` | API overview & endpoint map |
+| `exercises.json` | All 872 exercises |
+| `categories.json` | All categories with slugs & counts |
+| `muscles.json` | All muscles with slugs & counts |
+| `equipment.json` | All equipment types with slugs & counts |
+| `categories/{slug}.json` | Exercises filtered by category |
+| `muscles/{slug}.json` | Exercises filtered by primary muscle |
+| `equipment/{slug}.json` | Exercises filtered by equipment |
+| `exercises/{slug}.json` | Single exercise by slug |
 
 ## Category slugs
 
@@ -56,14 +56,21 @@ https://<your-username>.github.io/<your-repo>/api
 
 ```js
 // All exercises
-const res = await fetch('https://<user>.github.io/<repo>/api/exercises.json');
+const res = await fetch('https://fushi500.github.io/exercises-api/exercises.json');
 const { exercises } = await res.json();
 
 // By muscle
-const res = await fetch('https://<user>.github.io/<repo>/api/muscles/chest.json');
+const res = await fetch('https://fushi500.github.io/exercises-api/muscles/chest.json');
 const { exercises } = await res.json();
 
 // Single exercise
-const res = await fetch('https://<user>.github.io/<repo>/api/exercises/bench-press.json');
+const res = await fetch('https://fushi500.github.io/exercises-api/exercises/barbell-bench-press.json');
 const exercise = await res.json();
 ```
+
+## Images
+
+Each exercise has photos under `exercises/{Name_With_Underscores}/0.jpg` and `1.jpg`, for example
+`https://fushi500.github.io/exercises-api/exercises/3_4_Sit-Up/0.jpg`.
+
+The images come from [yuhonas/free-exercise-db](https://github.com/yuhonas/free-exercise-db) (Unlicense). I did not create them. My part is the packaging and publishing.
